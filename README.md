@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello there 👋 My name is Fernando Ochoa and I am a software engineer, fullstack developer and NodeJs enthusiastic.
 
-<!--
-**fernandochoa13/fernandochoa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently help businesses by developing technological solutions focused on automation and tool optimization.
 
-Here are some ideas to get you started:
+Nowadays I am specializing in React and its ecosystem to improve the experience both for developers and end users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies I use:
+
+- JavaScript / TypeScript
+- Node.js / Express
+- React
+- PHP / Java / Python
+- HTML5 / CSS
+- MySQL / PostgreSQL
+
+I am looking forward to finding new opportunities to grow as a fullstack developer and provide the best services possible.
+
+My Linkedin is: https://www.linkedin.com/in/fernando-j-ochoa-r-109703368/
+
+Hopefully we connect soon
